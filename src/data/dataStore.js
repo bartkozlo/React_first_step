@@ -19,6 +19,18 @@ export const pageContents = {
   subtitle: 'A simple to-do app, with lists, columns and cards',
 };
 
+export const infoData = {
+  title: 'All information in one place',
+  content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempor magna vitae enim porttitor, non congue ligula egestas.',
+  image: 'https://source.unsplash.com/random',
+};
+
+export const faqData = {
+  title: 'Frequently asked question',
+  content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempor magna vitae enim porttitor, non congue ligula egestas.',
+  image: 'https://source.unsplash.com/random',
+};
+
 export const listData = {
   title: 'Things to do <sup>soon!</sup>',
   description: 'Interesting things I want to check out!',
